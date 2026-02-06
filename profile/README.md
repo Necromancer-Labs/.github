@@ -20,6 +20,15 @@ Welcome to our open-source repo. Feel free to contribute, ask questions, or use 
 | [embbridge](https://github.com/Necromancer-Labs/embbridge) | Embedded Debug Bridge — a protocol and lightweight agent/client tool for interacting with embedded devices |
 | [gocmd2](https://github.com/Necromancer-Labs/gocmd2) | Go-based interactive shell framework for building command-line applications, inspired by python's cmd2 framework |
 | [utftp](https://github.com/Necromancer-Labs/utftp) | Lightweight, high-performance TFTP server written in C |
+| [uart-push](https://github.com/Necromancer-Labs/uart-push) | Like scp, but over UART serial connections |
+
+---
+
+## Research
+
+| Repository | Description |
+|------------|-------------|
+| [Hunting-Ligolo](https://github.com/Necromancer-Labs/Hunting-Ligolo) | Resources and source code for "GOst in the Protocol: Hunting Ligolo with JARM Fingerprinting" |
 
 ---
 

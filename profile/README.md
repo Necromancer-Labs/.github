@@ -17,8 +17,8 @@ Welcome to our open-source repo. Feel free to contribute, ask questions, or use 
 
 | Repository | Description |
 |------------|-------------|
-| [embbridge](https://github.com/Necromancer-Labs/embbridge) | Embedded Debug Bridge — a protocol and lightweight agent/client tool for interacting with embedded devices |
-| [gocmd2](https://github.com/Necromancer-Labs/gocmd2) | Go-based interactive shell framework for building command-line applications, inspired by python's cmd2 framework |
+| [embbridge](https://github.com/Necromancer-Labs/embbridge) | Like adb, but edb - Embedded Debug Bridge — a protocol and lightweight agent/client tool for interacting with embedded devices |
+| [gocmd2](https://github.com/Necromancer-Labs/gocmd2) | Inspired by python's cmd2 framework, this is a Go-based interactive shell framework for building cli applications |
 | [utftp](https://github.com/Necromancer-Labs/utftp) | Lightweight, high-performance TFTP server written in C |
 | [uart-push](https://github.com/Necromancer-Labs/uart-push) | Like scp, but over UART serial connections |
 
